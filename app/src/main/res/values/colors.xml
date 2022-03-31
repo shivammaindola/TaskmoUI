@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFE7D0</color>
+    <color name="colorPrimaryDark">#FFE7D0</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#ffffff</color>
+    <color name="textColorForm">#979797</color>
+
+    <color name="textColorFormHint">#D3D3D3</color>
+    <color name="collapseColor">#BA684E</color>
+
+</resources>

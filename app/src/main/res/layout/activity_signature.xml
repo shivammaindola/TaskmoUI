@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="#FFE7D0"
+    tools:context=".Signature">
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:textColor="#A66753"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="Make your digital signature" />
+
+
+    <include layout="@layout/signature_content" />
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
